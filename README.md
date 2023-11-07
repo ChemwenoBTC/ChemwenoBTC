@@ -1,8 +1,12 @@
 - 👋 Hi, My name is Boaz Chemweno
-- 👀 I’m interested in Python, HTML, CSS, and Javascript
+- 👀 I’m interested in Python, HTML, CSS, Data Science, and Javascript
 - 🌱 I’m currently learning Python and HTML
 - 💞️ I’m looking to collaborate and learn on everything tech.  
-- 📫 How to reach me via X, Facebook, Instagram, or TikTok - My handle is @ChemwenoBTC
+- 📫 How to reach me;
+- Instagram - **@ChemwenoBTC**
+- Facebook - **@ChemwenoBTC**
+- X - **@ChemwenoBTC**
+- TikTok - **@ChemwenoBTC**
 
 <!---
 ChemwenoBTC/ChemwenoBTC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
