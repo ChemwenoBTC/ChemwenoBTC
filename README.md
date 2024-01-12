@@ -7,8 +7,8 @@
 - Facebook - **@ChemwenoBTC**
 - X - **@ChemwenoBTC**
 - TikTok - **@ChemwenoBTC**
+- Tech Blog **Chemweno.com**
 
-<!---
-ChemwenoBTC/ChemwenoBTC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ----> ChemwenoBTC/ChemwenoBTC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
